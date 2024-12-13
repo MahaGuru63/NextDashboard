@@ -1,3 +1,3 @@
 export default function Page() {
-    return <h1>Responsive RFP Dashboard Page</h1>;
+    return <p>customers  Page</p>;
   }
